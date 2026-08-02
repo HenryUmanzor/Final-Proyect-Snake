@@ -1,4 +1,4 @@
-# Final-Proyect-Snake
+# Final-Project-Snake
 
 Hello, this is a short explanation of my final python project.
 
